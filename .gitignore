@@ -1,0 +1,18 @@
+# Generated Simulink artifacts -- the model is built by matlab/build_abt_model.m,
+# so no binary .slx is committed; the build script IS the model.
+*.slx
+*.slx.autosave
+*.slxc
+slprj/
+*.asv
+*.mexa64
+*.mexw64
+*.mexmaci64
+
+# MATLAB-generated plots (regenerable; Python plots in results/ are committed)
+results/matlab/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
