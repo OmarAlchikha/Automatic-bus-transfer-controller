@@ -1,3 +1,7 @@
+# Personal notes — never pushed
+PRIVATE_TODO.md
+PRIVATE_WALKTHROUGH.md
+
 # Generated Simulink artifacts -- the model is built by matlab/build_abt_model.m,
 # so no binary .slx is committed; the build script IS the model.
 *.slx
